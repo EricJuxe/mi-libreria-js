@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Ejemplo de miLibreria.js</title>
+    <script src="libreria.js"></script>
+</head>
+
+<body>
+    <h2>Validación de CURP (mayúsculas + solo letras)</h2>
+    <label for="curp">Ingresa tu CURP:</label><br />
+    <input type="text" id="curp" maxlength="18" /><br /><br />
+
+    <h2>Queja a la escuela (máx. 200 caracteres + bloqueo de groserías)</h2>
+    <label for="queja">Escribe tu queja:</label><br />
+    <textarea id="queja" rows="5" cols="50" maxlength="200"></textarea>
+    <p id="contador">0 caracteres</p>
+
+    <script>
+        // CURP: Mayúsculas + solo letras
+        miLibreria.forzarMayusculas("curp");
+        miLibreria.soloLetras("curp");
+
+        // Queja: Contador + bloqueo de groserías
+        miLibreria.contadorCaracteres("queja", "contador");
+        miLibreria.bloquearPalabras("queja", [
+            "tonto",
+            "idiota",
+            "estúpido",
+            "asno",
+            "burro",
+            "pendejo",
+            "puto",
+        ]);
+    </script>
+</body>
+
+</html>
