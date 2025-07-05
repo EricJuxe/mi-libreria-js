@@ -1,6 +1,13 @@
-# 📚 Librería: miLibreria.js
 
-## ✨ Descripción
+              Juarez Fernandez Eric Aaron
+            Vicente de Jesús Zenón Regalado  
+        Ingeniería en Sistemas Computacionales  
+            Instituto Tecnológico de Oaxaca  
+-
+
+#  Librería: miLibreria.js
+
+##  Descripción
 
 **miLibreria.js** es una librería JavaScript ligera y autónoma, diseñada para ayudar a validar y controlar entradas de texto en formularios HTML.  
 
@@ -11,11 +18,11 @@ Incluye funciones como:
 - Contar caracteres en un campo
 - Bloquear palabras ofensivas
 
-> ✅ Ideal para formularios escolares, encuestas y comentarios.
+>  Ideal para formularios escolares, encuestas y comentarios.
 
 ---
 
-## 📦 Instalación
+##  Instalación
 
 Puedes incluirla en tu proyecto HTML descargando el archivo `libreria.js` y enlazándolo así:
 
@@ -25,7 +32,7 @@ Puedes incluirla en tu proyecto HTML descargando el archivo `libreria.js` y enla
 
 ---
 
-## ⚙️ Uso
+## Uso
 
 A continuación, un ejemplo completo de implementación en HTML y JS:
 
@@ -55,61 +62,23 @@ A continuación, un ejemplo completo de implementación en HTML y JS:
 
 ---
 
-## 🖼️ Capturas de Pantalla
+## Capturas de Pantalla
 
 ### 📸 1. Formulario de CURP y queja escolar
 
-*(Aquí inserta una imagen mostrando tu formulario cargado en el navegador)*
+![image](https://github.com/user-attachments/assets/31a03809-a44a-40ef-93aa-1b07eda42b0a)
 
 ### 📸 2. Validación en acción
 
-*(Aquí inserta una imagen de la consola mostrando la validación o el resultado en pantalla)*
+![image](https://github.com/user-attachments/assets/df31474f-946c-4ba1-9951-7ba77bfd964f)
 
----
 
-## 🎥 Video
 
-Incluye un video corto mostrando cómo se usa tu librería en un proyecto real.  
-Duración recomendada: **máximo 1 minuto**.
 
-📺 [Ver demostración en YouTube](https://youtu.be/tu-video)  
-*O puedes subir el archivo directamente en el repositorio.*
 
----
 
-## 🌐 GitHub Pages (opcional)
 
-Para mostrar tu librería funcionando en línea:
 
-1. Ve a la configuración del repositorio.
-2. Activa **GitHub Pages**.
-3. Selecciona la rama `main` y carpeta raíz `/`.
 
-Tu demo estará disponible en:
 
-```
-https://<tu-usuario>.github.io/<nombre-del-repo>/
-```
 
----
-
-## 📁 Estructura del repositorio
-
-```
-/mi-libreria-js
-│
-├── README.md          # Este archivo
-├── libreria.js        # Código fuente de la librería
-└── index.html         # Ejemplo funcional de implementación
-```
-
----
-
-## 🧑‍💻 Autor
-
-- Vicente de Jesús Zenón Regalado  
-- Estudiante de Ingeniería en Sistemas Computacionales  
-- Instituto Tecnológico de Oaxaca  
-- 📧 vicenteregalado11@hotmail.com  
-- 📱 9717178460  
-- 📸 Instagram: [@vicentevx7](https://instagram.com/vicentevx7)
