@@ -1,6 +1,7 @@
 
               Juarez Fernandez Eric Aaron
             Vicente de Jesús Zenón Regalado  
+                       Equipo 9
         Ingeniería en Sistemas Computacionales  
             Instituto Tecnológico de Oaxaca  
 -
