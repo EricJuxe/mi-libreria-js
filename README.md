@@ -50,12 +50,12 @@ A continuación, un ejemplo completo de implementación en HTML y JS:
   miLibreria.contadorCaracteres("queja", "contador");
   miLibreria.bloquearPalabras("queja", [
     "tonto",
-    "idiota",
-    "estúpido",
+    "malo",
+    "carajo",
     "asno",
     "burro",
-    "pendejo",
-    "puto"
+    "rayos",
+    "tonto"
   ]);
 </script>
 ```
